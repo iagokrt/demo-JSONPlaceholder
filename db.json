@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post Title" },
-    { "id": 2, "title": "One more Post" }
-    { "id": 3, "title": "Post Testing" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "colaboradores": [
+      {
+        "id": 1,
+        "CD_MATRICULA": "1234",
+        "NM_COLABORADOR": "1234",
+        "NO_CPF": "1234",
+        "DT_INICIO_PROXIMA_FERIAS": "1234"
+      },
+      {
+        "id": 2,
+        "CD_MATRICULA": "1234",
+        "NM_COLABORADOR": "1234",
+        "NO_CPF": "1234",
+        "DT_INICIO_PROXIMA_FERIAS": "1234"
+      }
   ],
   "profile": {
-    "name": "iagokrt"
+      "name": "iagokrt"
   }
 }
